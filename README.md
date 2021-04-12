@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Fegler
-- 👀 I’m interested in ... Learning ANYTHING... Literally, I have a research problem
-- 🌱 I’m currently learning ... JAVA, PYTHON, the basics
+- 👀 I’m interested in ... Learning ANYTHING... Literally. Currently studying for CompTIA Security+
+- 🌱 I’m currently learning ... JavaScript, Python, and SQL. Just trying to get my feet wet in this industry.
 - 💞️ I’m looking to collaborate on ... Anything that anyone is willing to teach me about!
 - 📫 How to reach me ... email: fegler.robert@gmail.com
 
